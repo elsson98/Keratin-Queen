@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
@@ -919,11 +919,6 @@
 
 .fa-list-ul:before {
     content: "\f0ca"
-}
-.fa-tiktok:before {
-    color: #111111;
-
-    filter: drop-shadow(2px 0px 0px #FD3E3E) drop-shadow(-2px -2px 0px #4DE8F4);
 }
 
 .fa-list-ol:before {
